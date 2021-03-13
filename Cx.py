@@ -24,11 +24,11 @@ print("""                                                                       
 
 print("\033[96m  :::::::::::::: CALCULATOR IS NOW WORKING.:::::::::::::\n")
 
-print("\033[95m Follow me on github: https://github.com/TermuxHackz\n") 
+print("\033[95m Follow me on github: https://github.com/NITRO-HACKERS\n") 
 
-print(" Follow me on facebook: https://facebook.com/anonyminhack5\n")
+print(" Follow me on facebook: https://facebook.com/NITROHACKERS\n")
 
-print("\033[1;37;40m  Follow me on twitter: https://twitter.com/anonyminHack5\n")
+
 
 def calculate():
 
@@ -98,7 +98,7 @@ Please type Y for YES or N for NO.
 
     elif calc_again.upper() == 'N':
 
-      print("\033[2;37;40m THANKS FOR USING THIS CALCULATOR SEE YOU LATER, FOLLOW ME ON TWITTER: @AnonyminHack5\n")
+      print("\033[2;37;40m THANKS FOR USING THIS CALCULATOR SEE YOU LATER, FOLLOW ME ON TWITTER: @NITROHACKERS\n")
 
     else:
 
