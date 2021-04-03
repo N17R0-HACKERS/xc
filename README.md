@@ -16,7 +16,7 @@ _This tool is not harmful in anyway but is really meant for educational purposes
 
 > pkg install python
 
-> git clone https://github.com/TermuxHackz/Calculator
+> git clone https://github.com/N17R0-HACKERS/xc
 
 > cd Calculator
 
